@@ -3,6 +3,8 @@ Project 1
 
 [View live github project]
 
+https://evn2025.github.io/Mindfulness-Kids-Club2025/
+
 # Mindfulness Kids Club
 
 This project creates a simple, yet effective, website for the ‘ Mindfulness Kids Club' company, offering information on their class, more information on how the studio  activities and benefits of mindfulness. The website uses  calming images of kids practicing mindfulness  a with simple and easy to read text.
