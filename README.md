@@ -1,5 +1,8 @@
 # Mindfulness Kids Club 
 Project 1 
+<img width="190" alt="VsC" src="https://github.com/user-attachments/assets/761b7958-34f1-49fb-a86b-9ffed21ee154" />
+
+
 
 [View live github project]
 
