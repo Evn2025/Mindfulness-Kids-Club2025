@@ -32,8 +32,31 @@ The website has been designed with a primary focus on new members. The website c
 - Tickets for classes
 - Contact form
 
+  
+<img width="470" alt="carousel 1" src="https://github.com/user-attachments/assets/0e4a4fc3-6f59-45bc-bab7-a66a28bce813" />
+<img width="910" alt="About " src="https://github.com/user-attachments/assets/8ed82f1b-1757-4278-817a-a3b0fd96bb9d" />
+<img width="812" alt="Benefits" src="https://github.com/user-attachments/assets/f49fa49f-175f-4f9c-817c-fce6daad128e" />
+<img width="724" alt="Class Dates" src="https://github.com/user-attachments/assets/d2882a9c-5e34-48a0-8471-96528b0cc0a7" />
+
+<img width="670" alt="Contact " src="https://github.com/user-attachments/assets/6ee6cccf-35a8-48f4-ad07-20b8f5e5982f" />
+
+
+
 ## Design
 The website has been created for clear and easy to use separation of information. The pages have been linked with a simple navigation menu, which adapts to a range of devices for ease of use. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Deployment
 Using Github 
